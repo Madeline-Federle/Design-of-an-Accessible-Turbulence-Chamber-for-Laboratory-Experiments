@@ -1,0 +1,1 @@
+This repository contains CAD files for the impellers and motor arm components, along with a complete assembly model for visualization. It also includes Arduino code for controlling eight motors, where an input value (1–9) sets the corresponding output RPM.
